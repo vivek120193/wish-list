@@ -9,7 +9,7 @@
         <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label> Requester</column_label>
+        <column_label>Requester</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -48,15 +48,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-06-14 13:24:21</sys_created_on>
-        <sys_id>82843b281bb4b0109e6a6288b04bcb3c</sys_id>
+        <sys_id>dad384b01bf4b0109e6a6288b04bcbe1</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name> Requester</sys_name>
+        <sys_name>Requester</sys_name>
         <sys_package display_value="Wish List" source="x_649611_wish_list">a124b7e41bb4b0109e6a6288b04bcbb0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Wish List">a124b7e41bb4b0109e6a6288b04bcbb0</sys_scope>
         <sys_update_name>sys_dictionary_x_649611_wish_list_wish_item_requester</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-06-14 13:24:21</sys_updated_on>
+        <sys_updated_on>2021-06-14 14:31:17</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
